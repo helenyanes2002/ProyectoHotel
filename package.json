@@ -1,0 +1,22 @@
+{
+  "name": "hotelburj",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Se crea el producto final de avanzada",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cesde",
+    "api",
+    "avanzada"
+  ],
+  "author": "Helen Yanes",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
